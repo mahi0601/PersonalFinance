@@ -56,3 +56,25 @@ The Personal Finance Dashboard is a web application that allows users to manage 
 ![Alt text for the image](src/assets/images/2.png "Optional title text")
 
 ![Alt text for the image](src/assets/images/3.png "Optional title text")
+
+![Alt text for the image](src/assets/images/4.png "Optional title text")
+
+![Alt text for the image](src/assets/images/5.png "Optional title text")
+
+![Alt text for the image](src/assets/images/6.png "Optional title text")
+
+![Alt text for the image](src/assets/images/7.png "Optional title text")
+
+![Alt text for the image](src/assets/images/8.png "Optional title text")
+
+![Alt text for the image](src/assets/images/9.png "Optional title text")
+
+![Alt text for the image](src/assets/images/10.png "Optional title text")
+
+![Alt text for the image](src/assets/images/11.png "Optional title text")
+
+![Alt text for the image](src/assets/images/12.png "Optional title text")
+
+![Alt text for the image](src/assets/images/13.png "Optional title text")
+
+![Alt text for the image](src/assets/images/14.png "Optional title text")
