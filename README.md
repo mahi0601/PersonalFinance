@@ -49,3 +49,10 @@ The Personal Finance Dashboard is a web application that allows users to manage 
 1. Navigate to the frontend directory:
    ```bash
    cd frontend
+
+
+![Alt text for the image](src/assets/images/1.png "Optional title text")
+
+![Alt text for the image](src/assets/images/2.png "Optional title text")
+
+![Alt text for the image](src/assets/images/3.png "Optional title text")
