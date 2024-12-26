@@ -51,6 +51,8 @@ The Personal Finance Dashboard is a web application that allows users to manage 
    cd frontend
 
 
+[Watch the video](./Project.mp4)
+
 ![Alt text for the image](src/assets/images/1.png "Optional title text")
 
 ![Alt text for the image](src/assets/images/2.png "Optional title text")
