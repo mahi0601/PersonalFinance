@@ -1,0 +1,38 @@
+/* NavBar styles */
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 20px;
+    background-color: #282c34;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar a:hover {
+    color: #61dafb; /* React's iconic blue for hover effect */
+  }
+  
+  .navbar .dark-mode-toggle {
+    margin-left: auto;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+      padding: 10px;
+    }
+  
+    .navbar a {
+      margin: 5px 0;
+    }
+  }
+  

@@ -1,0 +1,23 @@
+.dashboard {
+    padding: 20px;
+    text-align: center;
+}
+
+.charts-container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.chart {
+    width: 45%;
+}
+
+.summary {
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+.summary p {
+    margin: 10px 0;
+}
